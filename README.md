@@ -1,4 +1,4 @@
-# Train station Operating system project
+# Train station operating system project
 ![](http://www.railtechnologymagazine.com/write/MediaUploads/iStock-1145773618.jpg)
  ## Project aim 
 The aim of this project is to apply the theoretical concepts of threads, synchronization and scheduling, that we learned during CS322 course into real-world application. 
