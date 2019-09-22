@@ -1,0 +1,8 @@
+5
+1 0 passenger
+2 0 fullgoods
+3 1 passenger
+4 2 emptygoods
+5 2 fullgoods
+
+
