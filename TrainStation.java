@@ -21,7 +21,7 @@ public class TrainStation {
      */
     public static void main(String[] args) throws Exception {
         // TODO code application logic here
-        Train.scanner = new Scanner(Paths.get("C:\\Users\\hp\\Documents\\NetBeansProjects\\JavaApplication6\\src\\javaapplication6\\input.txt"));
+        Train.scanner = new Scanner(Paths.get("input.txt"));
         int num_of_trains = Train.scanner.nextInt();
         Train[] trains = new Train[num_of_trains];
         //read the train information one by one and store each train in the array as thread
